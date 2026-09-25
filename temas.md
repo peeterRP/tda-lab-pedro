@@ -9,3 +9,5 @@ pero actualmente aprendo por mi cuenta y estoy probando técnicas nuevas como di
 o técnicas basicas de animación.
 
 ![Persona Dibujando](capturas/TDA.jpg)
+
+He investigado por internet y he econtrado esta web acerca de arte: 
