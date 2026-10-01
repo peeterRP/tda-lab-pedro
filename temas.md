@@ -21,3 +21,4 @@ y sus metrajes, además que soy un fanático de la cultura de la animación y de
 [Esta es su página en la fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-studio-ghibli/)
 
 ![Logo de Studio Ghibli](capturas/Studio_Ghibli.png)
+Imagen: Deerstop, Teroblepuns, [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Studio_Ghibli.png)
