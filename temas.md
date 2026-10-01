@@ -10,4 +10,4 @@ o técnicas basicas de animación.
 
 ![Persona Dibujando](capturas/TDA.jpg)
 
-[He investigado por internet y he econtrado esta web acerca de arte:](https://www.aseprite.org/)
+[He investigado por internet y he econtrado esta web acerca de arte digital](https://www.aseprite.org/)
