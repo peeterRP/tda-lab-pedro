@@ -20,4 +20,4 @@ gracias a su excelente narración y cuidado de la cultura, además de su gran cr
 y sus metrajes, además que soy un fanático de la cultura de la animación y del arte.
 [Esta es su página en la fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-studio-ghibli/)
 
-![Logo de Studio Ghibli](capturas/estudioghibli.jpg)
+![Logo de Studio Ghibli](capturas/Studio_Ghibli.png)
