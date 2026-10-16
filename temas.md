@@ -28,7 +28,7 @@ Imagen: Deerstop, Teroblepuns, [Wikipedia Commons](https://commons.wikimedia.org
 ### 16/10 · Ada Lovelace
 
 Ada fue una brillante matemática y escritora británica. Fue la primera persona en publicar lo que hoy se reconoce como primer algoritmo y la primera en reconocer 
-que la máquina tenía aplicaciones más allá del cálculo puro. El Ada Lovelace se considera celebración internacional y tiene lugar cada segundo martes de octubre 
+que la máquina tenía aplicaciones más allá del cálculo puro. El Ada Lovelace day se considera celebración internacional y tiene lugar cada segundo martes de octubre 
 para visibilizar los logros de las mujeres en la ciencia, la tecnología, la ingeniería y las matemáticas.
 [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
