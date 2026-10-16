@@ -32,5 +32,5 @@ que la máquina tenía aplicaciones más allá del cálculo puro. El Ada Lovelac
 para visibilizar los logros de las mujeres en la ciencia, la tecnología, la ingeniería y las matemáticas.
 [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
-![Firma de Ada Lovelace] 
+![Firma de Ada Lovelace](capturas/ADA.webp){: width="300"}
 Ada Lovelace, J. Avanzado [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Augusta_Ava_Lovelace_autograph.svg)
