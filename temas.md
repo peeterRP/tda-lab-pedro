@@ -12,6 +12,7 @@ o técnicas basicas de animación.
 
 [He investigado por internet y he econtrado esta web acerca de arte digital](https://www.aseprite.org/)
 
+---
 
 ### 01/10 · Premios Princesa de Asturias: Studio Ghibli
 
