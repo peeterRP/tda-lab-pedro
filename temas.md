@@ -22,3 +22,15 @@ y sus metrajes, además que soy un fanático de la cultura de la animación y de
 
 ![Logo de Studio Ghibli](capturas/Studio_Ghibli.png)
 Imagen: Deerstop, Teroblepuns, [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Studio_Ghibli.png)
+
+---
+
+### 16/10 · Ada Lovelace
+
+Ada fue una brillante matemática y escritora británica. Fue la primera persona en publicar lo que hoy se reconoce como primer algoritmo y la primera en reconocer 
+que la máquina tenía aplicaciones más allá del cálculo puro. El Ada Lovelace se considera celebración internacional y tiene lugar cada segundo martes de octubre 
+para visibilizar los logros de las mujeres en la ciencia, la tecnología, la ingeniería y las matemáticas.ç
+[Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
+
+![Firma de Ada Lovelace] 
+Ada Lovelace, J. Avanzado [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Augusta_Ava_Lovelace_autograph.svg)
