@@ -4,14 +4,28 @@
 ### 14/09 · Laboratorio en Github
 
 - **Aplicación:** GitHub
-- **Entregado:** Enlace a Github
-- **Qué hice:** Crear un repositorio a modo de Blog en Github y su web
+- **Entregado:** Enlace a GitHub
+- **Qué hice:** Crear un repositorio a modo de Blog en GitHub y su web
 
 ---
-### 14/09 · Mi primer TDA Lab
+### 21/09 · Nos Conocemos
 
-- **Aplicación:** GitHub
-- **Entregado:** la dirección de mi Lab
-- **Qué hice:** copiar el Lab de partida y ponerle mi nombre.
+- **Aplicación:** Word - Bitmoji
+- **Entregado:** U0_A1_NosConocemos-PedroR.docx
+- **Qué hice:** Crear un árbol de carpetas y un Bitmoji
+
+---
+### 5/10 · Premios Princesa
+
+- **Aplicación:** Github
+- **Entregado:** Enlace a la entrada GitHub
+- **Qué hice:** Una entrada sobre los premios princesa
+
+---
+### 6/10 · Premios Princesa
+
+- **Aplicación:** Github
+- **Entregado:** Enlace a la entrada GitHub
+- **Qué hice:** Una entrada sobre la efeméride de Ada Lovelace
 
 ---
