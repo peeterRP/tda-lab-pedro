@@ -17,14 +17,14 @@
 ---
 ### 5/10 · Premios Princesa
 
-- **Aplicación:** Github
+- **Aplicación:** GitHub
 - **Entregado:** Enlace a la entrada GitHub
 - **Qué hice:** Una entrada sobre los premios princesa
 
 ---
 ### 6/10 · Premios Princesa
 
-- **Aplicación:** Github
+- **Aplicación:** GitHub
 - **Entregado:** Enlace a la entrada GitHub
 - **Qué hice:** Una entrada sobre la efeméride de Ada Lovelace
 
