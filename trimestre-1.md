@@ -1,7 +1,7 @@
 [← Volver al inicio](README.md)
 # Primer trimestre
 
-### 19/09 · Laboratorio en Github
+### 14/09 · Laboratorio en Github
 
 - **Aplicación:** GitHub
 - **Entregado:** Enlace a Github
